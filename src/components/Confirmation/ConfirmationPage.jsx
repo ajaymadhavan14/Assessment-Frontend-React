@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import box from "../../assets/giftBox.png";
+import box from "@assets/giftBox.png";
 function ConfirmationPage() {
   const navigate = useNavigate();
   const handleNavigate = () => {

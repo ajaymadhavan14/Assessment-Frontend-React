@@ -1,6 +1,6 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
-import image from '../../assets/imageLogo.png'
+import image from '@assets/imageLogo.png'
 import { Link } from "react-router-dom";
 
 

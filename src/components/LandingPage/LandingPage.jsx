@@ -1,11 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Frame from "../../assets/Frame.png";
-import Frame1 from "../../assets/Frame 1114.png";
-import Frame2 from "../../assets/Frame 1115.png";
-import Frame3 from "../../assets/Frame 1116.png";
-import Frame4 from "../../assets/Frame 1117.png";
-import Frame5 from "../../assets/Frame 1118.png";
+import Frame from "@assets/Frame.png";
+import Frame1 from "@assets/Frame 1114.png";
+import Frame2 from "@assets/Frame 1115.png";
+import Frame3 from "@assets/Frame 1116.png";
+import Frame4 from "@assets/Frame 1117.png";
+import Frame5 from "@assets/Frame 1118.png";
 
 function LandingPage() {
   return (
