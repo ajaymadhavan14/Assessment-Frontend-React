@@ -8,13 +8,13 @@ function ConfirmationPage() {
   };
 
   return (
-    <div className="min-h-screen flex justify-center bg-[#FFF6DB]">
+    <div className="min-h-screen flex justify-center bg-primary">
     <div className="w-full md:w-[636px] h-[555px] bg-[#FEFEFE] flex flex-col items-center">
       <div className="w-[242px] h-[225px]">
         <img src={box} alt="" />
       </div>
       <div className="space-y-4 md:space-y-8 flex justify-center flex-col items-center">
-        <div className="font-urbanist text-lg md:text-2xl font-bold text-[#FFA400]">
+        <div className="font-urbanist text-lg md:text-2xl font-bold text-secondary">
           <p>CONGRATULATIONS!</p>
         </div>
         <div className="font-urbanist text-base md:text-lg font-medium">

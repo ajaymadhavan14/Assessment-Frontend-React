@@ -46,7 +46,7 @@ function Listing() {
   );
 
   return (
-    <div className="flex justify-center bg-[#FFF6DB] min-h-screen">
+    <div className="flex justify-center bg-primary min-h-screen">
       <div className="w-full md:w-[80%] lg:w-[70%] mt-10">
         <div className="h-[94px] bg-[#E75553] rounded-t-[35px] text-white text-lg md:text-2xl lg:text-3xl font-bold flex justify-center items-center">
           <h1>Waitlist Database</h1>

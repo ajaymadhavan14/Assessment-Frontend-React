@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <div
       className={` w-screen ${
-        location.pathname === "/" ? "bg-[#FFFFFF]" : "bg-[#FFF6DB]"
+        location.pathname === "/" ? "bg-[#FFFFFF]" : "bg-primary"
       }  py-4 px-16`}
     >
       <div>

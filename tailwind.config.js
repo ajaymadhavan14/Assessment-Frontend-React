@@ -6,7 +6,13 @@ export default {
   ],
   theme: {
     extend: {
-     
+      colors: {
+        primary: "#FFF6DB",
+        secondary: "#FFA400",
+      },
+      fontFamily: {
+        urbanist: ["Urbanist", "sans-serif"],
+      },
     },
   },
   plugins: [],

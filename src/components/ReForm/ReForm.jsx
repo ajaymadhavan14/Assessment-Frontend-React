@@ -71,7 +71,7 @@ function ReForm() {
   };
 
   return (
-    <div className="w-screen flex justify-center items-center bg-[#FFF6DB]">
+    <div className="w-screen flex justify-center items-center bg-primary">
       {/* <div className="h-auto w-full max-w-screen-md p-6"> */}
       <div className="h-auto w-[525px] p-6">
         <div className="w-full sm:w-[525px] flex flex-col items-center sm:flex-row sm:items-start mx-auto my-10">
