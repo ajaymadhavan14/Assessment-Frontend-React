@@ -22,10 +22,11 @@ function ConfirmationPage() {
         </div>
         <div className="">
           <button
-            className="w-48 md:w-64 h-12 md:h-16 rounded-lg bg-gradient-to-r from-red-500 to-red-500 text-white font-bold"
+            className="w-48 md:w-64 h-12 md:h-16 hover:bg-white hover:text-black hover:border hover:border-black rounded-lg bg-red-500 text-white font-bold"
             onClick={handleNavigate}
           >
             <span className="font-Urbanist text-base md:text-xl font-medium">Done</span>
+         
           </button>
         </div>
       </div>
